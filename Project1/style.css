@@ -1,0 +1,26 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  align-items: center;
+}
+
+body {
+  font-size: 25px;
+  align-items: center;
+  max-width: 100%;
+  max-height: auto;
+  box-sizing: border-box;
+  color: white;
+  padding: 30px;
+  background-color: black;
+}
+
+.number {
+  box-sizing: border-box;
+  padding: 10px;
+  width: 50px;
+  margin: 10px 48%;
+  font-size: 20px;
+  background-color: white;
+  color: black;
+}
